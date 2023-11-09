@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hsilyav
 - 👀 I’m interested in pentesting, bug bounty, python, php ...
-- 🌱 I’m currently learning cybersecurity ... next target OSCP
+- 🌱 I’m currently learning cybersecurity ...
 
 <!---
 aamfrk/aamfrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
